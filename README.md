@@ -1,4 +1,4 @@
 # New Project
 
 this project was created from local system.
-created by ishwar meteS
+created by ishwar mete.
